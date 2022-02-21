@@ -11,7 +11,7 @@ columns = ['ID', 'Typ', 'SKU', 'Nazwa', 'Opublikowano', 'Wyróżniony produkt?',
 
 template = ['', '1', '0', 'visible', '', '', 'taxable', '1', '', '', '0', '0', '', '', '', '', '', '',
             '', '', '',
-            'https://www.hossa-komfort-dom.eu/wp-content/uploads/2021/12/Swisspor-Plus-fasada''-0032-1.jpg',
+            '',
             '', '', '', '', '', '', '', '', 'Grubość']
 
-sheet = 'styropian.xlsx'
+sheet = ''
